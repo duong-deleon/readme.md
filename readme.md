@@ -1,3 +1,2 @@
-for i in 'hello':
-    print ('hello')
+for i in 'hello'
     
